@@ -436,49 +436,49 @@ tr:hover {
 }
 
 .flag.kr { 
-    background-image: url('./40x30/kr.png');
+    background-image: url('../img/kr.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .flag.en { 
-    background-image: url('./40x30/us.png');
+    background-image: url('../img/us.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .flag.cn { 
-    background-image: url('./40x30/cn.png');
+    background-image: url('../img/cn.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .flag.jp { 
-    background-image: url('./40x30/jp.png');
+    background-image: url('../img/jp.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .flag.in { 
-    background-image: url('./40x30/id.png');
+    background-image: url('../img/id.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .flag.vn { 
-    background-image: url('./40x30/vn.png');
+    background-image: url('../img/vn.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .flag.th { 
-    background-image: url('./40x30/th.png');
+    background-image: url('../img/th.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
